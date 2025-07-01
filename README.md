@@ -9,9 +9,10 @@
 - Common Mistakes & Tips
 
 ## 📘 Key Learnings
-- **A Good prompt** = **Role + Clear Instruction + Context + Format + Constraints**.
+ # A Good prompt = **Role + Clear Instruction + Context + Format + Constraints**.
 
-- Types of Prompts:
+ # Types of Prompts:
+ 
   1. **Instruction-Based**- Tells the AI what to do clearly.
                            Example: "Explain cyber security in simple words."
     
