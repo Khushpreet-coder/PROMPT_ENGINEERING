@@ -1,17 +1,17 @@
 # Prompt Engineering Diary – Day 1
 **Date**: 30 June 2025 (Monday)
 
-## 🔥 Topics Covered
+# 🔥 Topics Covered
 - Introduction to Prompt Engineering
 - Types of Prompts
 - Good vs Bad Prompts with Examples
 - Refining Practice
 - Common Mistakes & Tips
 
-## 📘 Key Learnings
- # A Good prompt = **Role + Clear Instruction + Context + Format + Constraints**.
+# 📘 Key Learnings
+ ## A Good prompt = **Role + Clear Instruction + Context + Format + Constraints**.
 
- # Types of Prompts:
+ ## Types of Prompts:
  
   1. **Instruction-Based**- Tells the AI what to do clearly.
                            Example: "Explain cyber security in simple words."
@@ -37,7 +37,7 @@
                            Example- ❌ "Tell me about climate change".
                                     ✅ Explain three major cause of climate change in under 100 words.
                                      
-## 📝 Activities
+# 📝 Activities
 1. Choose a Task
    - Write an apology email for a late delivery
    - Genrate blog intro for "Morning routines for students"
