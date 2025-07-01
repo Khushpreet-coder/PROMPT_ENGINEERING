@@ -1,5 +1,5 @@
 # Prompt Engineering Diary – Day 1
-Date: 30 June 2025 (Monday)
+**Date**: 30 June 2025 (Monday)
 
 ## 🔥 Topics Covered
 - Introduction to Prompt Engineering
@@ -12,27 +12,27 @@ Date: 30 June 2025 (Monday)
 - **A Good prompt** = **Role + Clear Instruction + Context + Format + Constraints**.
 
 - Types of Prompts:
-  - **Instruction-Based**- Tells the AI what to do clearly.
+  1. **Instruction-Based**- Tells the AI what to do clearly.
                            Example: "Explain cyber security in simple words."
     
-  - **Role-Based**- Ask the AI to act like someone.
+  2. **Role-Based**- Ask the AI to act like someone.
                     Example: "You are a fitness trainer. Suggest a diet plan for weight loss."
 
-  - **Few-Shot**- Show 1-2 example of the task and ask AI to continue.
+  3. **Few-Shot**- Show 1-2 example of the task and ask AI to continue.
                   Example- Q: Capital of France? A: Paris
                            Q: Capital of Japan? A: Tokoyo
                            Q: Capital of Germany? A:??
 
-  - **Zero-Shot**- Give the task to AI without Examples.
+  4. **Zero-Shot**- Give the task to AI without Examples.
                     Example: "Hello" Translate this to French.
 
-  - **Chain-of-Thought**- Ask AI to think step-by-step.
+  5. **Chain-of-Thought**- Ask AI to think step-by-step.
                       Example: "Explain how a cybercriminal hacks a system step by step."
  
-  - **Constraint-Based**- Add rules or limits to control the output.
+  6. **Constraint-Based**- Add rules or limits to control the output.
                           Example: Write a tweet about summer sale
      
-  - **Reframing Prompts**- Rewrite Vague Prompts.
+  7. **Reframing Prompts**- Rewrite Vague Prompts.
                            Example- ❌ "Tell me about climate change".
                                     ✅ Explain three major cause of climate change in under 100 words.
                                      
