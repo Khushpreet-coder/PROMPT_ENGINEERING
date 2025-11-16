@@ -104,5 +104,3 @@ DAY-15
     c) Explored multimodal prompting and auto-prompt optimization.
     d) Prepared ideas for final project using all learned tools.
 
-c) Explored multimodal prompting and auto-prompt optimization.
-d) Prepared ideas for final project using all learned tools.
